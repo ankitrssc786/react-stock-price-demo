@@ -9,7 +9,7 @@
 		"test": "mocha ./tests/main"
 	},
 	"dependencies": {
-		"axios": "^0.17.1",
+		"axios": "^0.19.2",
 		"body-parser": "~1.18.2",
 		"c3": "^0.4.18",
 		"cookie-parser": "~1.4.3",
